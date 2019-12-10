@@ -1,0 +1,15 @@
+Entity Relationships
+
+For 1-1 is none
+
+1-Many
+
+Org - Student
+Org - Leader
+Org - Instructors
+
+
+
+Many - Many
+Stu - Lead
+
